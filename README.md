@@ -1,4 +1,4 @@
-python
+Python
 ======
 
 Show Me the Code Python version.
@@ -13,7 +13,7 @@ Show Me the Code Python version.
   * Create a folder named the problem num.
   * Add your solution in the folder.
 
-For example, if you wanna add a solution for problem 0001, you should do like this:
+-->For example, if you wanna add a solution for problem 0001, you should follow the steps:
 
   * Fork `Show-Me-the-Code/python`.
   * git clone `YOUR_REPO_URL SOME_DIR`.
@@ -24,4 +24,6 @@ For example, if you wanna add a solution for problem 0001, you should do like th
   * cd `0001`.
   * and the write some code & test it.
 
-If all these steps done, send us an pull request. After we accept your request, we'll invite you to this group.
+-->If all these steps are done, send us a pull request. After we check and accept your request, we'll invite you to this group.
+
+**NOTE:-Changes related to this project is only acceptable
