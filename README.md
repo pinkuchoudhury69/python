@@ -26,4 +26,4 @@ Show Me the Code Python version.
 
 -->If all these steps are done, send us a pull request. After we check and accept your request, we'll invite you to this group.
 
-**NOTE:-Changes related to this project is only acceptable.
+**NOTE:-Changes that are related to this project is only acceptable.
